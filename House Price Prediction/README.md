@@ -130,6 +130,9 @@ To learn and implement multiple regression models using a hands-on approach.
 * Random Forest
      * Train MSE: 0.002635599298509284
      * Test MSE: 0.024350114657155735
+* Random Forest (with most important features)
+     * Train MSE: 0.004333614774789146
+     * Test MSE: 0.03493676670772804
 
 ### TECH/FRAMEWORK USED
 [Jupyter Notebook](https://jupyter.org/)
