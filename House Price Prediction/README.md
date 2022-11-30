@@ -24,7 +24,7 @@ Random forest is a Supervised Machine Learning Algorithm that is used widely in 
 ### DATASET
 The dataset is called Ames Housing dataset. It containes over 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, all in csv format.
 
-Here's a brief version of what you'll find in the data description file.
+Here's a brief description of columns.
 
 1. SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 2. MSSubClass: The building class
